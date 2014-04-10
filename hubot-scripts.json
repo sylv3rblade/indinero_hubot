@@ -1,1 +1,10 @@
-["redis-brain.coffee", "shipit.coffee"]
+["redis-brain.coffee",
+    "shipit.coffee",
+    "hello.coffee",
+    "github-status.coffee",
+    "git-help.coffee",
+    "airbrake.coffee",
+    "ruby.coffee",
+    "decide.coffee",
+    "ping.coffee",
+    "pivotal.coffee"]
