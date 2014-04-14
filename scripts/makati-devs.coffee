@@ -29,4 +29,4 @@ images = [
 
 module.exports = (robot) ->
   robot.hear /(rand-dev|makati-dev)/i, (msg) ->
-    msg.send "Dev? #{msg.random(images)}"
+    msg.send msg.random images
