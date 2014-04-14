@@ -7,4 +7,5 @@
     "ruby.coffee",
     "decide.coffee",
     "ping.coffee",
-    "pivotal.coffee"]
+    "pivotal.coffee",
+    "emman.coffee"]
