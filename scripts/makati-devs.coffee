@@ -24,7 +24,8 @@ images = [
   "https://www.dropbox.com/s/4pvafrptl01utpj/Screen%20Shot%202014-04-14%20at%204.42.42%20PM.png", #ian
   "https://www.dropbox.com/sm/create/DevPics/Screen%20Shot%202014-04-14%20at%204.43.23%20PM.png", #stephen
   "https://www.dropbox.com/s/8shruo3b25e6ywm/Screen%20Shot%202014-04-14%20at%204.44.17%20PM.png", #jossie
-  "https://www.dropbox.com/s/ku8qs9ffft67r8m/tim.jpeg" #tim
+  "https://www.dropbox.com/s/ku8qs9ffft67r8m/tim.jpeg", #tim
+  "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-frc1/t1.0-1/c0.0.160.160/p160x160/316747_2372300106936_8352838_n.jpg", #jeff
 ]
 
 module.exports = (robot) ->
